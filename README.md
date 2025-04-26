@@ -32,16 +32,20 @@
 </div>
 
 <br />
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=muri7hikelvin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Kelvin's GitHub stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muri7hikelvin&theme=tokyonight" alt="Languages by Repositories" width="90%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muri7hikelvin&theme=tokyonight&hide_border=true&background=000000" alt="Kelvin's GitHub streak"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muri7hikelvin&theme=tokyonight" alt="Languages by Commits" width="90%"/>
     </td>
   </tr>
 </table>
+
+<br />
+
+
 
 
 <p align="center">
@@ -49,8 +53,8 @@
 </p>
 
 
-
-<p align="center">
+<br />
+<p align="center" width="60">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muri7hikelvin&theme=react-dark&hide_border=true&area=true&bg_color=000000" alt="Commit Activity Graph" />
 
