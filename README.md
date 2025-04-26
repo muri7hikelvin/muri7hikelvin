@@ -31,11 +31,17 @@
 </div>
 
 <br />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=muri7hikelvin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Kelvin's GitHub stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muri7hikelvin&theme=tokyonight&hide_border=true&background=000000" alt="Kelvin's GitHub streak"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muri7hikelvin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=000000" alt="Kelvin's GitHub stats" width="45%" style="border-radius: 15px;"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muri7hikelvin&theme=tokyonight&hide_border=true&background=000000" alt="Kelvin's GitHub streak" width="45%" style="border-radius: 15px;"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muri7hikelvin&theme=tokyonight" alt="Kelvin's Summary" width="80%" />
