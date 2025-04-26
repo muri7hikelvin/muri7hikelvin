@@ -48,9 +48,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muri7hikelvin&theme=tokyonight" alt="Kelvin's Summary" width="80%" />
-</p>
 
 
 <br />
