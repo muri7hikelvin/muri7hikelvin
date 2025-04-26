@@ -9,6 +9,7 @@
  
 </div>
 
+
 ---
 
 <p align="center" style="color:#00FFFF; font-size:18px;">
@@ -45,4 +46,15 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muri7hikelvin&theme=tokyonight" alt="Kelvin's Summary" width="80%" />
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muri7hikelvin&theme=react-dark&hide_border=true&area=true&bg_color=000000" alt="Commit Activity Graph" />
+
+
+
+
 </p>
