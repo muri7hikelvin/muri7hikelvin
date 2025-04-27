@@ -28,7 +28,7 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,nodejs,fastapi,flutter,py,opencv,pytorch,tensorflow,docker,kubernetes,aws,firebase&theme=dark" alt="HUD skill icons" />
+  <img src="https://skillicons.dev/icons?i=c++,c#,java,c,nodejs,fastapi,flutter,py,opencv,pytorch,tensorflow,docker,kubernetes,aws,firebase&theme=dark" alt="HUD skill icons" />
 </div>
 
 <br />
