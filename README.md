@@ -28,8 +28,11 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cplusplus,cs,java,css3,html5,javascript,python,opencv,pytorch,tensorflow,docker,android,aws,firebase&theme=dark" alt="HUD skill icons" />
+  <img style="filter: drop-shadow(0px 0px 5px #00FFFF);" 
+    src="https://skillicons.dev/icons?i=linux,windows,kali,ubuntu,mint,c,cpp,cs,dotnet,java,python,javascript,php,html,css,mysql,opencv,pytorch,tensorflow,docker,androidstudio,qt,vscode,postman,git,github,aws,firebase,bootstrap,figma&theme=dark" alt="HUD skill icons" />
 </div>
+
+
 
 
 <br />
