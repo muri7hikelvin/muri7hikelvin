@@ -55,11 +55,4 @@
 
 
 <br />
-<p align="center" width="60">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muri7hikelvin&theme=react-dark&hide_border=true&area=true&bg_color=000000" alt="Commit Activity Graph" />
-
-
-
-
-</p>
